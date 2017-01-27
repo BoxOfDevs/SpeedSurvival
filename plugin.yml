@@ -1,0 +1,9 @@
+---
+author:  BoxOfDevs Team
+name: SpeedSurvival
+version: 1.0
+api: [2.0.0]
+main: BoxOfDevs\SpeedSurvival\Main
+commands: []
+permissions: []
+...

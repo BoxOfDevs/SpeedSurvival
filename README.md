@@ -1,2 +1,2 @@
 # SpeedSurvival
-Survival too slow? Not any more!
+Survival is too slow? Not with this plugin!
